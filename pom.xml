@@ -13,11 +13,6 @@
 
     <description>A Java Library</description>
     
-    <url>https://github.com/dyorgio/cpu-watcher</url>
-    
-    <issueManagement>
-        <url>https://github.com/dyorgio/cpu-watcher/issues</url>
-    </issueManagement>
 
     <licenses>
         <license>
@@ -27,26 +22,6 @@
         </license>
     </licenses>
 
-    <developers>
-        <developer>
-            <id>com</id>
-            <name>Dyorgio Nascimento</name>
-            <email>dyorgio@gmail.com</email>
-            <roles>
-                <role>Author</role>
-            </roles>
-            <organization>NeoCode Software</organization>
-            <organizationUrl>http://www.neocodesoftware.com.br</organizationUrl>
-        </developer>
-    </developers>
-    
-    <scm>
-        <connection>scm:git:git@github.com:dyorgio/cpu-watcher.git</connection>
-        <developerConnection>scm:git:git@cpu-watcher.github.com:dyorgio/cpu-watcher.git</developerConnection>
-        <url>https://github.com/dyorgio/cpu-watcher.git</url>
-        <tag>HEAD</tag>
-    </scm>
-    
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
