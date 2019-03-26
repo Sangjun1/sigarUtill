@@ -348,14 +348,14 @@
                         </configuration>
                     </execution>
                     <execution>
-                        <id>sg</id>
+                        <id>all</id>
                         <phase>package</phase>
                         <goals>
                             <goal>shade</goal>
                         </goals>
                         <configuration>
                             <shadedArtifactAttached>true</shadedArtifactAttached>
-                            <shadedClassifierName>sg</shadedClassifierName>
+                            <shadedClassifierName>all</shadedClassifierName>
                             <filters>
                                 <filter>
                                     <artifact>*:*</artifact>
